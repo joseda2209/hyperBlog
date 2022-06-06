@@ -1,7 +1,9 @@
 Daniel Muñoz
 
-Git Course
+Git y GitHub Course
 
 Platzi
 
 Esta es un archivo de prueba para el curso de git y github de Platzi
+
+Segunda linea para probar nuevo commit

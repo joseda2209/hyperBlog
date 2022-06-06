@@ -1,0 +1,7 @@
+Daniel Muñoz
+
+Git Course
+
+Platzi
+
+Esta es un archivo de prueba para el curso de git y github de Platzi

@@ -9,3 +9,5 @@ Esta es un archivo de prueba para el curso de git y github de Platzi
 Segunda linea para probar un nuevo commit
 
 Tercera linea para probar git reset
+
+Cuarta linea para probar git reset

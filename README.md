@@ -9,4 +9,8 @@ En este curso vemos:
 * Trucos con Git y Github
 
 
+Creado por el increible Daniel Muñoz
+
  y Como recordatorio: **Este readme.md es solo una prueba**. Diseñado pare el ejemplo.
+
+
